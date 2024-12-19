@@ -4,3 +4,5 @@ Site para demonstrar as trilogias de filmes do Homem-Aranha, separadas por seu a
 Tema inspirado no multiverso Spider-Man.
 
 Projeto desenvolvido como parte do desafio Projeto Spider-Man: Criando um site com HTML, CSS e Javascript da DIO.
+
+Deploy: https://jpbeirigo.github.io/Spider-Man-Multiverse/
